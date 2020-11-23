@@ -11,7 +11,7 @@
 </manifest>
 ```
 
-- Android 9 or Oldest
+- **Android 9 or Oldest**
 
 Not Realtime
 ```java
