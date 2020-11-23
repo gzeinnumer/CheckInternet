@@ -1,6 +1,6 @@
 # CheckInternet
 
-- Manifest
+- **Manifest**
 ```xml
 <manifest >
 
@@ -21,7 +21,8 @@ boolean isConnect = cm.getActiveNetworkInfo() != null && cm.getActiveNetworkInfo
 Log.d(TAG, "startNetworkCalilback: "+isConnect);
 ```
 
-- Android 10
+#
+- **Android 10**
 
 Realtime every connection connect or not
 ```java
