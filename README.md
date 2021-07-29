@@ -21,7 +21,6 @@ boolean isConnect = cm.getActiveNetworkInfo() != null && cm.getActiveNetworkInfo
 Log.d(TAG, "startNetworkCalilback: "+isConnect);
 ```
 
-#
 - **Android 10**
 
 Realtime every connection connect or not
